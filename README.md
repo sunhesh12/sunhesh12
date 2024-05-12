@@ -1,6 +1,6 @@
 <img src="![1aae4807d8ddf61b41515a585e7b2490](https://github.com/sunhesh12/sunhesh12/assets/109822042/2e0d1074-1697-4a46-a96c-28c12d872325)" >
 <h1 align="center">Hi 👋, I'm Heshan Santhush</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunhesh12&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="sunhesh12" /> </p>
 
