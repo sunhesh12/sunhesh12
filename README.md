@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **JAVA,PYTHON,PHP,HTML**
+- 💬 Ask me about **JAVA,c#,PYTHON,PHP,HTML**
 
 - 📫 How to reach me **hsdbandaranayake@gmail.com**
 
