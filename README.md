@@ -35,9 +35,11 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunhesh12&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
 </div>
+<br/>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sunhesh12&show_icons=true&locale=en&theme=dark" alt="GitHub Stats">
 </div>
+<br/>
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunhesh12&theme=dark" alt="Streak Stats">
 </div>
