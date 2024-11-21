@@ -83,6 +83,11 @@
 <h3 align="center">GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunhesh12&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunhesh12&show_icons=true&locale=en&theme=dark" alt="GitHub Stats">
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunhesh12&theme=dark" alt="Streak Stats">
 </div>
+
