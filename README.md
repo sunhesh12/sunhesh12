@@ -1,4 +1,4 @@
-<img src="https://github.com/sunhesh12/sunhesh12/assets/109822042/2e0d1074-1697-4a46-a96c-28c12d872325" alt="Heshan's Profile Picture">
+<img src="https://github.com/sunhesh12/sunhesh12/assets/109822042/2e0d1074-1697-4a46-a96c-28c12d872325" alt="Heshan's Profile Picture" width="100px" height="100px" align="center">
 
 <h1 align="center">Hi 👋, I'm Heshan Santhush</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
