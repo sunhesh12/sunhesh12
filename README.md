@@ -35,26 +35,25 @@ Full-Stack Developer | Hacker Mindset | Future Tech Builder
 
 <div align="center">
 
+---
 
+## ● TECH STACK
 
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=00ffcc)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=00ffcc)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00ffcc)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00ffcc)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00ffcc)
 
+### ⚙️ Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00ffcc)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00ffcc)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=00ffcc)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00ffcc)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00ffcc)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00ffcc)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
 
 📊 GITHUB STATS
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sunhesh12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunhesh12&theme=tokyonight&hide_border=true" width="48%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunhesh12&layout=compact&theme=tokyonight&hide_border=true" width="45%" /> </div>
